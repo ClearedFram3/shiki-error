@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@humanfs/node": "^0.15.0",
+    "markdown-it": "^14.0.0",
+    "@shikijs/markdown-it": "^1.1.7",
+    "@shikijs/twoslash": "^1.1.7"
+  }
+}
